@@ -1,4 +1,0 @@
-# Setting up the GitHub Code: libindic/lindic-trans
-
-## Follow the steps to setup the code
-
